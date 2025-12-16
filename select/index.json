@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "場違いハミングバード",
+  "base_artist": "UNISON SQUARE GARDEN",
+  "createdAt": "2025-12-16T03:02:47.232941Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "場違いハミングバード",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/01_場違いハミングバード_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "場違いハミングバード - D.A mix",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/02_場違いハミングバード_-_D.A_mix_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "場違いハミングバード",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": false,
+      "path": "select/pl_01_場違いハミングバード_UNISON_SQUARE_GARDEN.txt"
+    }
+  ]
+}
